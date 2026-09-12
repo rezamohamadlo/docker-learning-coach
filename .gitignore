@@ -1,0 +1,11 @@
+# Personal learning state and local lab artifacts
+learner/
+*.log
+.env
+.env.*
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

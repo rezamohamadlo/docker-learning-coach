@@ -1,0 +1,14 @@
+interface:
+  display_name: Docker Learning Coach
+  short_description: Learn Docker with labs and evidence-based coaching
+  default_prompt: Use $docker-learning-coach to continue my Docker roadmap, explain
+    the next concept, guide a lab, and assess my understanding.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

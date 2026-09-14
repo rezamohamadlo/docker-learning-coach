@@ -20,7 +20,13 @@ The coach initializes learner files from `assets/`. If working from a downloaded
 
 ## Your daily learning style
 
+In both conversations and documents, the coach uses simple English for a B2–C1 learner: short sentences, familiar words and clear examples. New Docker terms get a brief explanation. Questions test Docker knowledge, not English grammar.
+
 Sessions fit **20–30 minutes a day**, with a quick retrieval review, one visual explanation, one small practical step, and a concise closing summary. Diagrams clarify image/container relationships, ports, networks, storage and Compose. Large labs span multiple sessions. Every seventh session consolidates the week; spaced checks revisit topics the next session and roughly 7 and 21 days after demonstration. The roadmap tracks due reviews and exact resume checkpoints.
+
+The roadmap includes a **Commands we learn** section. The coach adds each new lesson command with a short explanation, including useful new flags, so you can review commands in one place.
+
+The personal roadmap records planned and actual section dates in the Jalali calendar. At each section start and finish, the coach reports whether it is early, on time or late, with the number of days. Timing and learning quality are reported separately. Updates happen during your learning conversations.
 
 ## Included learning path
 

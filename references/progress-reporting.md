@@ -10,3 +10,11 @@ At completion update the relevant weekly row with actual output, report link, co
 - Phase counts: Learn x/y; Build x/y; Exit x/y.
 - Schedule status with the reason or uncertainty.
 - Demonstrated strength, unresolved gap, and one next checkpoint.
+
+## Section start and finish timing
+
+Keep a section-date table in the personal roadmap: section ID, planned start, due date, actual start, actual finish and timing. Use Jalali dates and Asia/Tehran. At a section start, compare actual start with planned start. At a verified finish, compare actual finish with due date. Convert dates with a calendar library before calculating elapsed calendar days. Negative differences mean early; positive differences mean late; zero means on time.
+
+Tell the learner the section, date, target, timing difference and next step at each start and finish. Also identify overdue incomplete sections. An incomplete section is overdue after its due date has passed, not at the start of its due date. A start on time is only evidence about the start; it is not a prediction of completion. Keep schedule status separate from evidence level and explain any difference between an early current section and an older overdue item.
+
+Keep original planned dates when replanning and record revised dates and the reason separately. Leave unknown actual dates blank. Do not infer study minutes from chat duration or claim background tracking. Update records when the learner returns or supplies new evidence.

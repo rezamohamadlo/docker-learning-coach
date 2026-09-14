@@ -13,6 +13,13 @@ Schedule: Unknown — dates and due outcomes have not been agreed.
 Current position: Phase 0, no Docker evidence recorded.
 Goal: Independently build, run, debug, persist and recover a small containerized application.
 
+## Commands we learn
+
+Add new lesson commands with a short explanation as they are introduced. Entries do not mean mastery.
+
+| Command | What it does |
+|---|---|
+
 ## Phase 0: Environment
 
 ### Learn
